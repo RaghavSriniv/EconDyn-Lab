@@ -1,8 +1,6 @@
 # Computational Economic dynamics lab!
 
-### Welcome!
-
-We live in time, yet in economics classrooms, time stands still :smile:
+## We live in time, yet in economics classrooms, time stands still!!!
 <br>
 <br>
 Undergraduate economics teaching mainly uses the comparative static method.
