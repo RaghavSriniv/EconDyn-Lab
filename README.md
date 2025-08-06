@@ -3,7 +3,7 @@
 ### Welcome!
 
 
-## <span style="font-size: 10.7px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
+##### <span style="font-size: 10.7px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
 <br>
 <br>
 Undergraduate economics teaching mainly uses the comparative static method.
@@ -16,7 +16,8 @@ Undergraduate economics teaching mainly uses the comparative static method.
 
 
 >> **Simulation** is a tool to visualize the dynamics of the system, i.e., the journey. It's not just a computational tool, but it is an active learning tool to understand basic economic intuition. 
-<br> 
+<br>
+<br>  
 
 ### How to use the platform?
 
@@ -33,7 +34,7 @@ The aim of **CEDL** is to provide a simulation tool to help experimental learnin
 
 <br>
 
-*__Simulate, Experiment, and Repeat__*! 
+##### <span style="font-size: 10.7px;"> _Simulate, Experiment, and Repeat_ </span>! 
 
 <br>
 <br> 
