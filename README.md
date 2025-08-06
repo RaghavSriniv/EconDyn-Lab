@@ -5,7 +5,7 @@
 
 ##### <span style="font-size: 10.7px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
 <br>
-<br>
+
 Undergraduate economics teaching mainly uses the comparative static method.
 
 >>The comparative static method is like taking snapshots of the system at different times and comparing them. But it does not tell us anything about the the transition between them - whether **journey** is bumpy or smooth! 
