@@ -17,7 +17,7 @@ Undergraduate economics teaching mainly uses the comparative static method.
 
 >> **Simulation** is a tool to visualize the dynamics of the system, i.e., the journey. It's not just a computational tool, but it is an active learning tool to understand basic economic intuition. 
 <br>
-<br>  
+
 
 ### How to use the platform?
 
