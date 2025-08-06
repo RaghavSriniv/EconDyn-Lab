@@ -3,7 +3,7 @@
 ### Welcome!
 
 
-##### <span style="font-size: 10.8px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
+##### <span style="font-size: 10.9px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
 <br>
 
 Undergraduate economics teaching mainly uses the comparative static method.
@@ -34,7 +34,7 @@ The aim of **Econdyn-Lab** is to provide a simulation tool to help experimental 
 
 <br>
 
-##### <span style="font-size: 10.8px;"> _Simulate, Experiment, and Repeat_ </span> 😹
+##### <span style="font-size: 10.9px;"> _Simulate, Experiment, and Repeat_ </span> 😹
 
 <br>
  
