@@ -3,7 +3,7 @@
 ### Welcome!
 
 
-#_We live in time, yet in economics classrooms, time stands still_😸
+<span style="font-size: 10.7px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
 <br>
 <br>
 Undergraduate economics teaching mainly uses the comparative static method.
