@@ -1,4 +1,4 @@
-# Computational Economic dynamics lab!
+
 
 ### Welcome!
 
