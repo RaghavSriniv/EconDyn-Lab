@@ -3,7 +3,7 @@
 ### Welcome!
 
 
-##### <span style="font-size: 10.7px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
+##### <span style="font-size: 10.8px;"> _We live in time, yet in economics classrooms, time stands still_ </span>😸
 <br>
 
 Undergraduate economics teaching mainly uses the comparative static method.
@@ -34,11 +34,10 @@ The aim of **CEDL** is to provide a simulation tool to help experimental learnin
 
 <br>
 
-##### <span style="font-size: 10.7px;"> _Simulate, Experiment, and Repeat_ </span>! 
+##### <span style="font-size: 10.8px;"> _Simulate, Experiment, and Repeat_ </span> 😹
 
 <br>
-<br> 
-
+ 
 ### CEDL Team 
 
 * Srinivas Raghavendra,
