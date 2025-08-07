@@ -1,2 +1,2 @@
 ### Demand-Supply dynamics
-[Cobweb](https://raghavsrinivas.shinyapps.io/Chapter_2_Shiny/)
+[Cobweb](https://raghavsrinivas.shinyapps.io/Model_1/)
