@@ -34,14 +34,16 @@ The aim of **Econdyn-Lab** is to provide a simulation tool to help experimental 
 
 <br>
 
-##### <span style="font-size: 10.9px;"> _Simulate, Experiment, and Repeat_ </span> 😹
-<br> 
-
 ### Models
 
 1. [Cobweb model](https://raghavsrinivas.shinyapps.io/Model_1/)
 2. [Cobweb model with Expectations]()
 <br>
+
+
+##### <span style="font-size: 10.9px;"> _Simulate, Experiment, and Repeat_ </span> 😹
+<br> 
+
 
 
 
