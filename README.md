@@ -41,7 +41,10 @@ The aim of **Econdyn-Lab** is to provide a simulation tool to help experimental 
 ### Models
 
 1. [Cobweb model](https://raghavsrinivas.shinyapps.io/Model_1/)
-2. [Cobweb model with Expectations]()
+2. [Cobweb model with Expectations](https://raghavsrinivas.shinyapps.io/Model_2/)
+3. [Keynesian Multiplier](https://raghavsrinivas.shinyapps.io/Model_3/)
+4. [The IS-LM model](https://raghavsrinivas.shinyapps.io/Model_4/)
+5. [Government deficit, debt and stabilization policy](https://raghavsrinivas.shinyapps.io/Model_5/)
 <br>
 
 
